@@ -1,8 +1,0 @@
-flask
-flask-login
-flask-sqlalchemy
-werkzeug
-email-validator
-python-dotenv
-pytest
-numpy 
